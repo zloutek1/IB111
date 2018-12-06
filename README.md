@@ -139,7 +139,7 @@ kde `Hitrate = hits / (hits + missed) * 100` a `Winrate = wonTimes / playedTimes
 
 Graf se mi moc nepovedl, asi by bylo lepší kdybych zvolil lepší formát zobrazení výsledků, ale pokusil jsem se zobrazit na graf počet výher strategie na ose Y vůči protihráči na ose X
 
-![1544124742613](images\1544124742613.png)
+![1544124742613](images/1544124742613.png)
 
 
 
@@ -155,7 +155,7 @@ Graf se mi moc nepovedl, asi by bylo lepší kdybych zvolil lepší formát zobr
 
 # Spracování dat
 
-Používal jsem vlastní facebooková data ![1544047458865](images\1544047458865.png)
+Používal jsem vlastní facebooková data ![1544047458865](images/1544047458865.png)
 
 
 
@@ -184,13 +184,13 @@ vstupní data jsou ve formátu JSON, ve tvaru
 
 Po zpracování jednotlivých souborů vytvoříme graf
 
-![1544051897989](images\1544051897989.png)
+![1544051897989](images/1544051897989.png)
 
-![1544123092035](images\1544123092035.png)
+![1544123092035](images/1544123092035.png)
 
-![1544123154331](images\1544123154331.png)
+![1544123154331](images/1544123154331.png)
 
-![1544123288109](images\1544123288109.png)
+![1544123288109](images/1544123288109.png)
 
 
 
@@ -204,23 +204,23 @@ Po zpracování jednotlivých souborů vytvoříme graf
 
 ## Serpinkiho trojuhelník pomocí kružnic
 
-![1544080018606](images\1544080018606.png)
+![1544080018606](images/1544080018606.png)
 
 
 
 ## Kochova hvězda
 
-![1544080044704](images\1544080044704.png)
+![1544080044704](images/1544080044704.png)
 
 ## Kruhy
 
-![1544080065739](images\1544080065739.png)
+![1544080065739](images/1544080065739.png)
 
 ## Vlastní fraktál
 
 Každý kruh obsahuje 4 kruhy s polovičním průměrem.
 
-![1544080094513](images\1544080094513.png)
+![1544080094513](images/1544080094513.png)
 
 
 
