@@ -256,12 +256,12 @@ Každý další krok proběhne rekurzivně. Na konci vybere tu cestu nejkratší
 
 Cestu v bludišti vykreslí jako kachličkovou cestu a správné řešení označí jako diamant.
 
-![1544082074469](images\1544082074469.png)
+![1544082074469](images/1544082074469.png)
 
 11x11
 
 
-![1544081854812](images\1544081854812.png)
+![1544081854812](images/1544081854812.png)
 
 101x101
 
